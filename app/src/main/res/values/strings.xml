@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Work-it-Out</string>
+    <string name="activity_signup"> </string>
+    <string name="activity_homepage"> </string>
+    <string name="activity_page"> </string>
+    <string name="activity_bodymeasurement"> </string>
+    <string name="activity_vitals"> </string>
+    <string name="activity_medical"> </string>
+</resources>
